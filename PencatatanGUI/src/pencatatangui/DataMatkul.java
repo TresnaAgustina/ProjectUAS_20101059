@@ -6,7 +6,7 @@ import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
 /*
- * @author User
+ * @author user
  */
 public class DataMatkul extends javax.swing.JInternalFrame {
     private DefaultTableModel model;
